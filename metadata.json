@@ -1,0 +1,8 @@
+
+{
+  "name": "NexusAI - Smart Task Automator",
+  "description": "An intelligent, real-time task reminder and automation system that uses AI to adapt to context, prioritize activities, and trigger seamless workflows.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
